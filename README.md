@@ -1,6 +1,7 @@
 # Art-gallery
 A online art gallery dynamic web projct using java
 Online-Art-Gallery
+
 1)Customer
 
 2)Artist
@@ -8,6 +9,7 @@ Online-Art-Gallery
 3)Admin
 
 This project intends to include various features related to an art gallery i.e. information about gallery, exhibition, artists, their paintings etc. The main aim is to help art lovers know about different exhibition details organised by different organisations, the art work included, the artists. Their is a login page for administrator and artists. Artists can login through their account and include details about new paintings made by them. Customers can see different paintings available for selling purpose. Administrator can include details about new art gallery , upcoming exhibition details and the exhibition artists.
+
 ![image](https://user-images.githubusercontent.com/72001913/134500821-0f43071e-867f-4ebc-9b70-e7f7419a1864.png)
 ![image](https://user-images.githubusercontent.com/72001913/134500859-98376cf1-dd40-442a-85d7-02ecacec21bf.png)
 ![image](https://user-images.githubusercontent.com/72001913/134500878-57700871-cfba-4512-8813-18108d5c4b77.png)
